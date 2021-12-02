@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" Contains the function matrix_shape """
+""" Contains the function add_arrays """
 
 
 def add_arrays(arr1, arr2):
